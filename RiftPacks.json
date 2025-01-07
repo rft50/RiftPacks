@@ -1,0 +1,16 @@
+{
+    "id": "rift_packs",
+    "name": "Rift Packs",
+    "display_name": "Packs from the Rift",
+    "author": ["rft50", "Rithaniel"],
+    "description": "",
+    "prefix": "rift",
+    "main_file": "main.lua",
+    "priority": 0,
+    "badge_colour": "",
+    "badge_text_colour": "",
+    "version": "0.0.1",
+    "dependencies": [
+        "Steamodded"
+    ]
+}
