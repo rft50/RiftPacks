@@ -14,7 +14,8 @@ SMODS.Atlas{
 local codeFiles = {
     "atomic/consumable.lua",
     "atomic/booster.lua",
-    "atomic/neutronium.lua"
+    "atomic/neutronium.lua",
+    "atomic/joker.lua"
 }
 
 for i = 1, #codeFiles do
